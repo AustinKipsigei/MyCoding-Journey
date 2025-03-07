@@ -12,6 +12,9 @@ Let's begin by learning Python
   My first Program in Python is the "Helloworld",,,the code to that program is helloworld.py named above
 
   Variables:
+
   Next I learnt how to declare variables which is a way of storing values in Python
   Go to "Variables.py" to access the code on how to declare and use variables appropriately
-   
+
+Concatenation:This is combining the contents of two strings(concatenation.py)
+
