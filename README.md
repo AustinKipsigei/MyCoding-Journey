@@ -10,4 +10,8 @@ I will also learn the fundamental programming languages for this which include S
 #Python101
 Let's begin by learning Python              
   My first Program in Python is the "Helloworld",,,the code to that program is helloworld.py named above
-  Next I learnt how to declare  
+
+  Variables:
+  Next I learnt how to declare variables which is a way of storing values in Python
+  Go to "Variables.py" to access the code on how to declare and use variables appropriately
+   
