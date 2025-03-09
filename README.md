@@ -1,5 +1,5 @@
 # MyCoding-Journey
-Hello there,my name is Austin Kipsigei I'm going to show you my jorney into coding 
+Hello there,my name is Austin Kipsigei I'm going to show you my jorney into Data Engineering 
 Before we get into that I would like you to know why I chose this field.
 In today's world,a lot of things are data driven.Many systems rely on data.Data is raw and messy,
 to combat that we create databases and analyse this data and use them to make important desicions to in businesses or even individualy.
