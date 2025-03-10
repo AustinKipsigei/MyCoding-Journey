@@ -20,5 +20,18 @@ Concatenation:This is combining the contents of two strings(concatenation.py)
 lovelySeats.py
 LovelySeats program showcases the use of variables and concatenation.
 
+Python Fundamentals for Data Engineering.
+Python is a broad language and is an in important langauage used in Data Engineering
+     After this I should be able to do the following using Python:
+        -Write Python programs
+        -Use Python functions
+        -Manage programs using control flow
+        -Store data using Python lists
+        -Iterate over lists of data using loops and list comprehensions
+        -Manipulate strings in Python
+        -Map data using Python dictionaries
+        -Create your own data types with Python classes
+        -Work with modules and files
+        -Build Python projects that tackle real data
 
 
