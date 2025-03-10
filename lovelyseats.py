@@ -19,7 +19,7 @@ luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Br
 luxurious_lamp_price = 52.15
 
 #adding the variable sales tax
-sales_tax = 0.88
+sales_tax = 0.088
 
 #our first customer
 customer_one_total = 254.00
