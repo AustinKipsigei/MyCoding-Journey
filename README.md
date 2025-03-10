@@ -17,4 +17,8 @@ Let's begin by learning Python
   Go to "Variables.py" to access the code on how to declare and use variables appropriately
 
 Concatenation:This is combining the contents of two strings(concatenation.py)
+lovelySeats.py
+LovelySeats program showcases the use of variables and concatenation.
+
+
 
