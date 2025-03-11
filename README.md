@@ -38,4 +38,4 @@ Concatenation:This is combining the contents of two strings(concatenation.py)
 lovelySeats.py
 LovelySeats program showcases the use of variables and concatenation.
 
-The Magic 8-ball(Magic 8-Ball.py) program showcases the use of relational operatore and logical operators which is an important concept in Python.
+The Magic 8-ball(https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Magic%208-ball.py) program showcases the use of relational operatore and logical operators which is an important concept in Python.
