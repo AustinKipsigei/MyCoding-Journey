@@ -8,6 +8,7 @@ and data wrangling.
 I will also learn the fundamental programming languages for this which include SQL,Python and PySpark
 
  PYTHON FUNDAMENTALS FOR DATA ENGINEERING
+ 
  Python is a broad language and is an in important langauage used in Data Engineering
      After this I should be able to do the following using Python:
         -Write Python programs
