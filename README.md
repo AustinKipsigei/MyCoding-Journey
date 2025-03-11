@@ -6,8 +6,9 @@ to combat that we create databases and analyse this data and use them to make im
 In this journey I'll show you how I got to learn the necessary skills to mine data,pipeline it,choose an appropriate data structure,the appropriate tools to use like GitHub,The Command Line and Digital Ocean along side with essential skills like working with big data,cloud-based hosting
 and data wrangling.
 I will also learn the fundamental programming languages for this which include SQL,Python and PySpark
+
  PYTHON FUNDAMENTALS FOR DATA ENGINEERING
-Python is a broad language and is an in important langauage used in Data Engineering
+ Python is a broad language and is an in important langauage used in Data Engineering
      After this I should be able to do the following using Python:
         -Write Python programs
         -Use Python functions
