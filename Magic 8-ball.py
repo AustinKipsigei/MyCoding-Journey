@@ -5,11 +5,10 @@ answer = ""
 #importing random module to generate random numbers
 import random
 random_number = random.randint(1 , 9)
-
 if random_number == 1:
    answer = "Yes - definitely"
 
-   #adding "elif" statements
+   #adding "elif" statements 
 elif random_number == 2:
     answer = "It is decidedly so"
 elif random_number == 3:
