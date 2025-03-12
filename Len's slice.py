@@ -9,6 +9,7 @@ num_two_dollar_slices = prices.count(2)
 print(num_two_dollar_slices)
 
 #length of toppings list
+
 num_pizzas = len(toppings)
 print("we sell " + str(num_pizzas) + " different kinds of pizza!")
 
