@@ -1,0 +1,2 @@
+def generate_time_travel_message(year, destination, cost):
+     return f"Prepare for an adventure! You are traveling to {destination} in the year {year}. The cost of this journey is ${cost:,.2f}. Buckle up for an unforgettable experience!"
