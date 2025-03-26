@@ -38,6 +38,8 @@ Let's begin by learning Python
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Magic%208-ball.py">Magic 8-ball</a> 
 program showcases the use of relational operatore and logical operators which is an important concept in Python.
 
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Sal's%20shipping.py">Sal's Shipping</a>: This program uses "if", "else" and "elif" statements and how to use them in Pyhton
+
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Physics%20class.py">Physics Class</a> : This program  shows the use of functions in python
 
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Len's%20slice.py">Len's</a>:This program demonstrates the use of lists in Python,which are important in storing data.
