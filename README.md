@@ -43,3 +43,5 @@ program showcases the use of relational operatore and logical operators which is
 
 Len's Slice(Len's slice.py):This program demonstrates the use of lists in Python,which are important in storing data.
 
+Threads: This program manipulates strings in varous ways using methods such as .split(),.fomart()etc
+
