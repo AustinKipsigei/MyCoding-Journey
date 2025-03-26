@@ -33,7 +33,7 @@ Let's begin by learning Python
 
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/concatenation.py">concatenation</a>:This is combining the contents of two strings
 
-LovelySeats program showcases the use of variables and concatenation.
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/lovelyseats.py">Lovely Seats</a>:showcases the use of variables and concatenation.
 
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Magic%208-ball.py">Magic 8-ball</a> 
 program showcases the use of relational operatore and logical operators which is an important concept in Python.
