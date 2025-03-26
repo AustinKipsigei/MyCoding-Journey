@@ -41,7 +41,7 @@ LovelySeats program showcases the use of variables and concatenation.
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Magic%208-ball.py">Magic 8-ball</a> 
 program showcases the use of relational operatore and logical operators which is an important concept in Python.
 
-Len's Slice(Len's slice.py):This program demonstrates the use of lists in Python,which are important in storing data.
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Len's%20slice.py">Len's</a>:This program demonstrates the use of lists in Python,which are important in storing data.
 
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/threads.py">Threads</a>: This program manipulates strings in varous ways using methods such as .split(),.fomart()etc
 
