@@ -29,13 +29,10 @@ I will also learn the fundamental programming languages for this which include S
 Let's begin by learning Python              
   My first Program in Python is the "Helloworld",,,the code to that program is helloworld.py named above
 
-  Variables:
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/variables.py">variables</a>:Shows the use of variables in Pyhton
 
-  Next I learnt how to declare variables which is a way of storing values in Python
-  Go to "Variables.py" to access the code on how to declare and use variables appropriately
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/concatenation.py">concatenation</a>:This is combining the contents of two strings
 
-<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/concatenation.py">concatenation</a>:This is combining the contents of two strings(concatenation.py)
-lovelySeats.py
 LovelySeats program showcases the use of variables and concatenation.
 
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Magic%208-ball.py">Magic 8-ball</a> 
