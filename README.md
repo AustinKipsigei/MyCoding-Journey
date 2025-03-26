@@ -34,7 +34,7 @@ Let's begin by learning Python
   Next I learnt how to declare variables which is a way of storing values in Python
   Go to "Variables.py" to access the code on how to declare and use variables appropriately
 
-Concatenation:This is combining the contents of two strings(concatenation.py)
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/concatenation.py">concatenation</a>:This is combining the contents of two strings(concatenation.py)
 lovelySeats.py
 LovelySeats program showcases the use of variables and concatenation.
 
