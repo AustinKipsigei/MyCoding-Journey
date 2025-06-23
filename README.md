@@ -47,3 +47,6 @@ program showcases the use of relational operatore and logical operators which is
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/threads.py">Threads</a>: This program manipulates strings in varous ways using methods such as .split(),.fomart()etc
 
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/timetravelers_toolkit.py">Timetraveller's Toolkit</a> : This program shows how we can work with modules and files in Python
+
+PYTHON PANDAS:
+Pandas is a Python module for working with tabular data (i.e., data in a table with rows and columns). Tabular data has a lot of the same functionality as SQL or Excel, but Pandas adds the power of Python.
