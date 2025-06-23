@@ -29,19 +29,24 @@ I will also learn the fundamental programming languages for this which include S
 Let's begin by learning Python              
   My first Program in Python is the "Helloworld",,,the code to that program is helloworld.py named above
 
-  Variables:
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/variables.py">variables</a>:Shows the use of variables in Pyhton
 
-  Next I learnt how to declare variables which is a way of storing values in Python
-  Go to "Variables.py" to access the code on how to declare and use variables appropriately
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/concatenation.py">concatenation</a>:This is combining the contents of two strings
 
-Concatenation:This is combining the contents of two strings(concatenation.py)
-lovelySeats.py
-LovelySeats program showcases the use of variables and concatenation.
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/lovelyseats.py">Lovely Seats</a>:showcases the use of variables and concatenation.
 
 <a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Magic%208-ball.py">Magic 8-ball</a> 
 program showcases the use of relational operatore and logical operators which is an important concept in Python.
 
-Len's Slice(Len's slice.py):This program demonstrates the use of lists in Python,which are important in storing data.
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Sal's%20shipping.py">Sal's Shipping</a>: This program uses "if", "else" and "elif" statements and how to use them in Pyhton
 
-Threads: This program manipulates strings in varous ways using methods such as .split(),.fomart()etc
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Physics%20class.py">Physics Class</a> : This program  shows the use of functions in python
 
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/Len's%20slice.py">Len's</a>:This program demonstrates the use of lists in Python,which are important in storing data.
+
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/threads.py">Threads</a>: This program manipulates strings in varous ways using methods such as .split(),.fomart()etc
+
+<a href = "https://github.com/AustinKipsigei/MyCoding-Journey/blob/main/timetravelers_toolkit.py">Timetraveller's Toolkit</a> : This program shows how we can work with modules and files in Python
+
+PYTHON PANDAS:
+Pandas is a Python module for working with tabular data (i.e., data in a table with rows and columns). Tabular data has a lot of the same functionality as SQL or Excel, but Pandas adds the power of Python.
